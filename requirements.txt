@@ -1,0 +1,5 @@
+kivy
+kivymd
+pyjnius
+android
+openssl
